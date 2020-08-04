@@ -19,7 +19,7 @@ label.logo > img{
 }
 
 nav ul{
-    float: right;
+    float: left;
     margin-right: 40px;
 }
 nav li{
